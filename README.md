@@ -5,9 +5,10 @@
 
 💬 <b>Ask me about</b> Design
 
-<b>📫 How to reach me deesenapati@gmail.com</b><br>
+<b>📫 How to reach me deesenapati@gmail.com</b><br><a href="https://dribbble.com/deesenapati">Dribbble</a> | <a href="https://www.linkedin.com/in/dineshkumarsenapati/">LinkedIn</a> | <a href="https://twitter.com/deesenapati">Dribbble</a>
 
 ⚡ Fun fact: I worked in <b>Advertising and Marketing</b> before moving into <b>UX Design.</b>
+
 
 <!--
 **deesenapati/deesenapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
