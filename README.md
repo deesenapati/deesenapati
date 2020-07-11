@@ -5,7 +5,7 @@
 
 💬 <b>Ask me about</b> Design
 
-<b>📫 How to reach me deesenapati@gmail.com</b><br><a href="https://dribbble.com/deesenapati">Dribbble</a> | <a href="https://www.linkedin.com/in/dineshkumarsenapati/">LinkedIn</a> | <a href="https://twitter.com/deesenapati">Dribbble</a>
+📫 You can reach me on <a href="https://dribbble.com/deesenapati">Dribbble</a> | <a href="https://www.linkedin.com/in/dineshkumarsenapati/">LinkedIn</a> | <a href="https://twitter.com/deesenapati">Dribbble</a>
 
 ⚡ Fun fact: I worked in <b>Advertising and Marketing</b> before moving into <b>UX Design.</b>
 
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any opensource projects that need design support.
 - 🤔 I’m looking for help with improving my front-end skills
 - 💬 Ask me about Design
-- 📫 How to reach me deesenapati@gmail.com
+- 📫 How to reach me thenomadgeneral@gmail.com
 - ⚡ Fun fact: I worked in Advertising and Marketing before moving into UX Design.
 -->
