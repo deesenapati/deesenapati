@@ -5,7 +5,7 @@
 
 💬 <b>Ask me about</b> Design
 
-📫 You can reach me on <a href="https://dribbble.com/deesenapati">Dribbble</a> | <a href="https://wwww.linkedin.com/in/dineshkumarsenapati/">LinkedIn</a> | <a href="https://twitter.com/deesenapati">Dribbble</a>|<a href="https://wwww.dineshsenapati.com">LinkedIn</a> 
+📫 You can reach me on <a href="https://dribbble.com/deesenapati">Dribbble</a> | <a href="https://wwww.linkedin.com/in/dineshkumarsenapati/">LinkedIn</a> | <a href="https://twitter.com/deesenapati">Dribbble</a>|<a href="https://wwww.dineshsenapati.com">Portfolio</a> 
 
 ⚡ Fun fact: I worked in <b>Advertising and Marketing</b> before moving into <b>UX Design.</b>
 
